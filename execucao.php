@@ -63,7 +63,7 @@ use Dom\Text;
     $tentativa = 0;
         do 
         {
-            //Comando usado para limpar a tela do terminal : 
+            //Comando usado para limpar a tela do terminal(system('clear'))
             sleep(2);
             system('clear');
 
